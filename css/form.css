@@ -54,6 +54,11 @@ input[type="radio"] {
     color: red;
 }
 
+#obligatorio2{
+    font-size: 17px;
+    color: red;
+}
+
 textarea{
     padding: 17px 20px;
     border-radius: 10px;
